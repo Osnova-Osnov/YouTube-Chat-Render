@@ -5,13 +5,13 @@ This utility allows you to get YouTube chat in video format
 ![Sample result](https://github.com/Osnova-Osnov/YouTube-Chat-Render/blob/master/example/result.gif)
 
 # Installation
-1. Unzip `emotes.zip` into the same folder as the project
-2. Install [Node.js](https://nodejs.org/) v20 or newer.
-3. Download the repository:
+1. Download the repository:
 ```bash
 git clone https://github.com/Osnova-Osnov/YouTube-Chat-Render.git
 cd YouTube-Chat-Render
 ```
+2. Unzip `emotes.zip` into the same folder as the project
+3. Install [Node.js](https://nodejs.org/) v20 or newer.
 4. Open a terminal or command prompt and install `express` if it is not already installed:
 ```bash
 npm install express
