@@ -28,7 +28,7 @@ node server.js
 1. Prepare a file with messages from the chat. (csv file with timestamp,author,message fields).<br>
    [Sample file](https://github.com/Osnova-Osnov/YouTube-Chat-Render/blob/master/example/yt-messages.csv).<br>
    
-   If you are using [chat-downloader](https://github.com/xenova/chat-downloader), you can download this Python script that will help you convert the JSON file from chat-downloader to a compatible CSV format
+   If you are using [chat-downloader](https://github.com/xenova/chat-downloader), you can download this [Python script](https://github.com/Osnova-Osnov/youtube_chat_to_csv/blob/main/youtube_chat_to_csv.py) that will help you convert the JSON file from chat-downloader to a compatible CSV format
    
 3. Open in browser:
 ```bash
